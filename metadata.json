@@ -1,0 +1,6 @@
+{
+  "name": "NOXARA",
+  "description": "Premium Mobile-First Web-App Platform with Teal Ocean design theme and high performance interfaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
